@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RubydeGreeuw
 - 👀 I’m interested in website developer
-- 🌱 I’m currently learning htmt Cassandra JavaScript 
+- 🌱 I’m currently learning htmlcssJavaScript 
 - 💞️ I’m looking to collaborate on this organization 
 - 📫 How to reach me via e-mail 
 
